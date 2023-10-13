@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-N/A
+none
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
